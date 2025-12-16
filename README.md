@@ -1,2 +1,4 @@
-##To deploy with Maven##
-mvn spring-boot:run
+# **To deploy with Meaven**
+
+- mvn spring-boot:run
+
